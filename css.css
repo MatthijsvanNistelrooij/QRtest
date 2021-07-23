@@ -1,0 +1,6 @@
+.qr { 
+    width: 80%;
+    height: 80%;
+    background-color: gray;
+    border: 1px solid blue;
+}
